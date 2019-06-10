@@ -1,4 +1,4 @@
-# Santando-Customer-Satisfaction
+# Santander-Customer-Satisfaction
 Kaggle Project
 
 Which customers are happy customers?
