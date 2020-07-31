@@ -7,8 +7,8 @@ From frontline support teams to C-suites, customer satisfaction is a key measure
 
 Link: https://www.kaggle.com/c/santander-customer-satisfaction/overview
 
-Le but étant réaliser un score sur une population de la Bancassurance Santander permettant d'identifier les personnes susceptibles d'exprimer leur insatisfaction et donc être susceptible de quitter la banque.
+The goal is to build a score on a sample frm Santander who aim to identify customers's unhappyness, hence quit the bank.
 
-Beaucoup de travail sur le fichier avec notamment la suppression des variables identiques, Creation d'une cross validation pour le Light GBM, Feature engineering (nombre de 0 par lignes etc...).
+Best results :  Public : 0.82892 Private : 0.81089
 
-Meilleurs résultats obtenus: Public : 0.82892 Private : 0.81089
+Here is a demo application of the review classifier : http://thawing-sea-87186.herokuapp.com/
